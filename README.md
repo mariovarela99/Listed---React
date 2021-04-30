@@ -8,4 +8,4 @@ $ yarn start # Start The project, open it on Browser port 3000.!
 
 ```
 
-Feito com ReactJS, para ver no seu PC basta clonar e abrir o seu terminal de comendo e digitar npm istall ou yarn add se tiver o yarn instaldado e depois daquela toda processada você pode editar e fazer um commit.! 
+Feito com ReactJS, para ver no seu PC basta clonar e abrir o seu terminal de comandos e digitar npm istall ou yarn add se tiver o yarn instaldado e depois daquela toda processada você pode editar e fazer um commit.! 
